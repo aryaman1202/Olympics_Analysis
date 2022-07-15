@@ -4,6 +4,9 @@ This project is aimed to create a dashboard of Olympics since the time it has st
 # Website UI
 ![olympic-dashboard](https://user-images.githubusercontent.com/91802408/178272065-995c8536-9e9d-48f8-8e73-d71ac25aaf17.jpg)
 
+#Web App link
+https://aryaman1202-olympics-analysis-app-34gyx6.streamlitapp.com/
+
 # Dataset
 The dataset which is used here, is collected from Kaggle website. Here is the link of the dataset : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
