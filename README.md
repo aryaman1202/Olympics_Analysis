@@ -4,7 +4,8 @@ This project is aimed to create a dashboard of Olympics since the time it has st
 # Website UI
 ![olympic-dashboard](https://user-images.githubusercontent.com/91802408/178272065-995c8536-9e9d-48f8-8e73-d71ac25aaf17.jpg)
 
-#Web App link
+# Web App link
+Visit the web application through this link:
 https://aryaman1202-olympics-analysis-app-34gyx6.streamlitapp.com/
 
 # Dataset
